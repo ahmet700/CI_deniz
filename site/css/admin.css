@@ -1,0 +1,99 @@
+@import url("redmond/jquery-ui-1.8.16.custom.css");
+
+body.body {
+  font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 75.0%;    /* 12px */
+  font-weight: normal;
+  color: #373737;
+ background-color: #c1d4dd;
+  margin:0;
+  padding:0;
+	background: #c1d4dd url('/site/images/bg-body.gif') repeat-x 0 0;
+}
+
+.footer {
+	background: #c1d4dd;}
+	
+.logout {
+	color:#fff;
+	font-weight:bold;
+	}
+	
+.logout a {
+	color:#C36;
+	text-decoration:none;}
+	
+h1.hed {
+	font:bold 28px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#005D9B;}
+	
+.orta {
+	  background-color: #FFFFFF;
+    min-height: 700px;
+    padding: 15px 15px 25px;
+		color:#373737;
+		}
+
+.solbox {
+	width:200px;
+	min-height:100px;
+	background-color:#efefef;
+	margin:0 0 5px 0; }
+	
+.solbox .bsk {
+	background:url('/site/images/bg-box-1-header.gif')  repeat-x 0 0;
+	padding:5px 0 5px 10px;
+	color:#fff;
+	font-weight:bold;
+	
+	}
+	
+.solbox ul,.solbox ul li  {
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+	
+.solbox ul li {
+	display:block;
+	
+	}
+	
+.solbox ul li a {
+	display:block;
+	color:#2E6E9E;
+	font:bold 12px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	padding:2px 2px 2px 20px;	
+	
+	}
+	
+	.solbox ul li a:hover {
+color:#C00;
+	}
+	
+.solbox hr {
+	color:#FFF;
+	}
+	
+a.ustbtn {
+	padding:5px ;
+	margin:2px 3px;
+	text-decoration:none;}
+	
+.tablo {
+	border-collapse:collapse;
+	
+	}
+	.heading {
+		background-color:#efefef;
+		padding:5px 3px;}
+		
+.heading input {
+	margin:5px 10px;
+	font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color:#666;
+	padding:5px 2px;
+	border:1px solid #cc0000;
+	}
+	
